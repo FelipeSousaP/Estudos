@@ -1,0 +1,15 @@
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\bin\Debug\net8.0\Aula2.exe
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\bin\Debug\net8.0\Aula2.deps.json
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\bin\Debug\net8.0\Aula2.dll
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\bin\Debug\net8.0\Aula2.pdb
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.sourcelink.json
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.dll
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.pdb
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+C:\Users\felipe.spinto5.SENACEDU\Documents\GitHub\Estudos\EstruturaDeDados\Aula2\obj\Debug\net8.0\ref\Aula2.dll
